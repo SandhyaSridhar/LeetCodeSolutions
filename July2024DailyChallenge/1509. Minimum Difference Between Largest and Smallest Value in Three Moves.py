@@ -1,3 +1,4 @@
+#Time Complexity: O(n log n)
 class Solution:
     def minDifference(self, nums: List[int]) -> int:
         if len(nums) <= 4:
